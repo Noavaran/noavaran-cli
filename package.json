@@ -2,7 +2,7 @@
   "name": "noavaran-cli",
   "version": "1.0.0",
   "description": "noavaran CLI tools",
-  "main": "noavaran.js",
+  "main": "./noavaran.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
