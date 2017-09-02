@@ -1,6 +1,6 @@
 {
   "name": "noavaran-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "noavaran CLI tools",
   "main": "./noavaran.js",
   "scripts": {
