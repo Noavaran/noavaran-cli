@@ -16,3 +16,5 @@ if (program.install) {
 } else {
   console.log('command not found');
 }
+
+module.exports = program;
