@@ -1,8 +1,10 @@
 {
   "name": "noavaran-cli",
-  "version": "1.0.4",
-  "description": "noavaran CLI tools",
-  "bin": "./bin/noavaran.js",
+  "version": "1.0.5",
+  "description": "Noavaran, New Creative Solutions company CLI tools. use $ noavaran command to see the details.",
+  "bin": {
+      "noavaran" : "./bin/noavaran.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
