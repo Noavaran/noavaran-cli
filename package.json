@@ -1,8 +1,8 @@
 {
   "name": "noavaran-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "noavaran CLI tools",
-  "main": "./bin/noavaran.js",
+  "bin": "./bin/noavaran.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
